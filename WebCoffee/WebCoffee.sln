@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebCoffee", "WebCoffee\WebC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{037AC7FE-ED06-4F58-A323-AC74E2B24118}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{D5B0A28A-BDE0-4C43-8F9E-D63755334D7E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{037AC7FE-ED06-4F58-A323-AC74E2B24118}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{037AC7FE-ED06-4F58-A323-AC74E2B24118}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{037AC7FE-ED06-4F58-A323-AC74E2B24118}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5B0A28A-BDE0-4C43-8F9E-D63755334D7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5B0A28A-BDE0-4C43-8F9E-D63755334D7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5B0A28A-BDE0-4C43-8F9E-D63755334D7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5B0A28A-BDE0-4C43-8F9E-D63755334D7E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
